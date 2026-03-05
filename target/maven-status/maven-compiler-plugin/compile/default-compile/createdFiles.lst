@@ -1,0 +1,14 @@
+com\voicevault\config\SecurityConfig.class
+com\voicevault\model\RecordingEntity.class
+com\voicevault\model\User.class
+com\voicevault\model\AuthRequest.class
+com\voicevault\repository\RecordingRepository.class
+com\voicevault\repository\UserRepository.class
+com\voicevault\controller\AuthController.class
+com\voicevault\model\Recording.class
+com\voicevault\service\SupabaseService.class
+com\voicevault\config\JwtUtil.class
+com\voicevault\controller\RecordingController.class
+com\voicevault\config\JwtFilter.class
+com\voicevault\VoiceVaultApplication.class
+com\voicevault\model\AuthResponse.class

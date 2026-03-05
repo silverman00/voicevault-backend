@@ -1,0 +1,14 @@
+D:\voicevault\backend\src\main\java\com\voicevault\model\AuthRequest.java
+D:\voicevault\backend\src\main\java\com\voicevault\model\User.java
+D:\voicevault\backend\src\main\java\com\voicevault\model\AuthResponse.java
+D:\voicevault\backend\src\main\java\com\voicevault\model\Recording.java
+D:\voicevault\backend\src\main\java\com\voicevault\service\SupabaseService.java
+D:\voicevault\backend\src\main\java\com\voicevault\repository\RecordingRepository.java
+D:\voicevault\backend\src\main\java\com\voicevault\repository\UserRepository.java
+D:\voicevault\backend\src\main\java\com\voicevault\model\RecordingEntity.java
+D:\voicevault\backend\src\main\java\com\voicevault\config\JwtUtil.java
+D:\voicevault\backend\src\main\java\com\voicevault\config\SecurityConfig.java
+D:\voicevault\backend\src\main\java\com\voicevault\controller\AuthController.java
+D:\voicevault\backend\src\main\java\com\voicevault\VoiceVaultApplication.java
+D:\voicevault\backend\src\main\java\com\voicevault\config\JwtFilter.java
+D:\voicevault\backend\src\main\java\com\voicevault\controller\RecordingController.java
