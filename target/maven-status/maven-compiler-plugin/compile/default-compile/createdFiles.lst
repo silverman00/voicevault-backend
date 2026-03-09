@@ -8,7 +8,9 @@ com\voicevault\controller\AuthController.class
 com\voicevault\model\Recording.class
 com\voicevault\service\SupabaseService.class
 com\voicevault\config\JwtUtil.class
+com\voicevault\service\LiveKitService.class
 com\voicevault\controller\RecordingController.class
+com\voicevault\controller\CallController.class
 com\voicevault\config\JwtFilter.class
 com\voicevault\VoiceVaultApplication.class
 com\voicevault\model\AuthResponse.class
